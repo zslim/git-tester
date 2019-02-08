@@ -1,0 +1,6 @@
+összesen 16
+drwxr-xr-x 3 zsofi zsofi 4096 febr   8 13:26 .
+drwxr-xr-x 7 zsofi zsofi 4096 febr   8 13:23 ..
+-rw-r--r-- 1 zsofi zsofi    0 febr   8 13:26 file.txt
+drwxr-xr-x 8 zsofi zsofi 4096 febr   8 13:23 .git
+-rw-r--r-- 1 zsofi zsofi   12 febr   8 13:23 README.md
